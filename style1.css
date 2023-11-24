@@ -1,0 +1,19 @@
+/* *{
+    background-color: rgb(8, 22, 22);
+    color: azure;
+} */
+.con{
+    background-color: rgb(8, 22, 22);
+    position: relative;
+    max-width: 100%;
+    min-height: 480px;
+    border-radius: 10px;
+}
+.signup{
+    background-color: rgb(168, 162, 162);
+    width: 50%;
+    height: 75%;
+    align-items: center;
+    margin-left: 25px;
+    margin-top: 20px;
+}
